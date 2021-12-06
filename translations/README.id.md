@@ -68,7 +68,7 @@ git checkout -b add-alonzo-church
 
 ## Buat Perubahan yang Diperlukan Lalu Commit Perubahan Tersebut
 
-Buka berkas `Contributors.md` menggunakan teks editor, tambahkan nama Anda ke dalamnya lalu simpan berkas tersebut. Apabila Anda masuk ke direktori dan mengeksekusi perintah `git status` maka Anda dapat melihat bahwa telah ada perubahan. Tambahkan perubahan tersebut ke dalam cabang yang sebelumnya telah dibuat menggunakan perintah `git add`:
+Buka berkas _(file)_ `Contributors.md` menggunakan teks editor, tambahkan nama Anda ke dalamnya lalu simpan berkas _(file)_ tersebut. Apabila Anda masuk ke direktori dan mengeksekusi perintah `git status` maka Anda dapat melihat bahwa telah ada perubahan. Tambahkan perubahan tersebut ke dalam cabang yang sebelumnya telah dibuat menggunakan perintah `git add`:
 
 ```
 git add Contributors.md
